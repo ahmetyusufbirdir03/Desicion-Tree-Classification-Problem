@@ -36,4 +36,3 @@ The application provides a GUI interface to:
 
 ```bash
 git clone https://github.com/ahmetyusufbirdir03/Desicion-Tree-Classification-Problem.git
-cd rock-type-classification
