@@ -35,5 +35,5 @@ The application provides a GUI interface to:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/rock-type-classification.git
+git clone https://github.com/ahmetyusufbirdir03/Desicion-Tree-Classification-Problem.git
 cd rock-type-classification
